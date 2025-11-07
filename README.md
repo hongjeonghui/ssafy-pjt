@@ -46,7 +46,8 @@
 |-----------|------|
 | **main** | 최종 배포용 브랜치 (항상 안정적인 코드 유지) |
 | **develop** | 통합 개발 브랜치 (기능 병합 및 테스트) |
-| **feature/** | 기능 단위 개발 브랜치 (ex. `feature/data-cleaning`, `feature/web-login`) |
+| **data** | 데이터 처리 및 관리 |
+| **feature** | 기능 단위 개발 브랜치 (ex. `feature/data-cleaning`, `feature/web-login`) |
 | **docs** | 회의록, 발표 자료 등 업로드 |
 
 
